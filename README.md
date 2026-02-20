@@ -1,10 +1,16 @@
-##Hello, my name is Shujin Wang! 
+Hello, my name is Shujin Wang! 
 
 
-E-postadress: shujin.wang11@gmail.com
+I am currently an IT-student at KTH and this is my E-portfolio showing off some of my work/projects that I have been working on!
 
 
-Telefonnummer: 0737188067
+Contact me
+
+
+E-mail: shujin.wang11@gmail.com
+
+
+LinkedIn: https://www.linkedin.com/in/shujin-wang-a2485a31a/
 <!--
 **ShujinWang/ShujinWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
